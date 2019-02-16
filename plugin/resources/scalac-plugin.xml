@@ -1,0 +1,4 @@
+<plugin>
+	<name>unicode-compose</name>
+	<classname>jp.ken1ma.scalac.plugin.unicode.UnicodeComposePlugin</classname>
+</plugin>
